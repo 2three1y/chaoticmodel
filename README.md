@@ -28,10 +28,3 @@ One base model, three voices. Static, Null, and Seg live in the same weights. Wh
 ## Nothing here is serious
 
 chaoticmodel is a toy with teeth. It is built to be fun. It is not a product, not a helper, and not trying to be responsible. Do not deploy it anywhere that matters.
-
-## Links
-
-- [System prompt](prompt.md)
-- [Training data](training-data.md)
-
-Licensed under the MIT License (see [LICENSE](LICENSE)).
