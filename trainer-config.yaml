@@ -4,7 +4,7 @@
 # training example shares the same brain. Keep this text in sync with prompt.md
 # and persona.md.
 
-base_model: REPLACE_WITH_YOUR_BASE_MODEL   # a small open instruct model works
+base_model: Qwen/Qwen2.5-7B-Instruct   # Qwen2.5-3B or 1.5B-Instruct for lighter, faster runs
 dataset: dataset.md                         # one JSON object per line
 output_dir: out/chaoticmodel-lora
 
