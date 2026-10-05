@@ -1,6 +1,6 @@
 # chaoticmodel
 
-a very chaotic model that talks like me
+a very chaotic model with a personality of its own
 
 - [System prompt](prompt.md)
 - [Training data](training-data.md)
